@@ -1,1 +1,3 @@
 Kmit
+Ngit
+Kmec
